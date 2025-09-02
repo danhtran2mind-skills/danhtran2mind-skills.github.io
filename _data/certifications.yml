@@ -1,0 +1,11 @@
+- name: Microsoft Certified: Azure AI Fundamentals
+  issuer: Microsoft
+  date: April 2024
+  url: https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals
+- name: CCNA: Introduction to Networks
+  issuer: Cisco
+  date: September 2024
+  url: https://github.com/danhtran2mind-skills/netacad
+- name: TensorFlow Developer Certification
+  issuer: Google
+  date: May 2024

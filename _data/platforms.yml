@@ -1,0 +1,12 @@
+- name: DataCamp
+  url: https://www.datacamp.com
+- name: Coursera
+  url: https://www.coursera.org
+- name: IBM
+  url: https://www.ibm.com/training
+- name: Microsoft Learn
+  url: https://learn.microsoft.com
+- name: Google Skillboost
+  url: https://skillshop.withgoogle.com
+- name: Netacad Cisco
+  url: https://www.netacad.com

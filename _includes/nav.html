@@ -1,0 +1,10 @@
+<nav style="background: #f5f5f5; padding: 10px 0;">
+  <div class="container" style="display: flex; justify-content: center; gap: 20px;">
+    {% for item in site.header_pages %}
+      {% assign page = site.pages | where: "path", item | first %}
+      <a href="{{ page.url | relative_url }}" style="color: #0366d6; text-decoration: none; font-weight: bold;">
+        {{ page.title | default: page.name | replace: '.md', '' | capitalize }}
+      </a>
+    {% endfor %}
+  </div>
+</nav>

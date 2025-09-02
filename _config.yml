@@ -1,0 +1,11 @@
+title: Danhtran2mind Skills
+description: Showcasing my expertise in Machine Learning, Deep Learning, Data Science, and Networking
+theme: minima
+minima:
+  skin: classic
+github:
+  is_project_page: false
+  repository_url: https://github.com/danhtran2mind-skills
+header_pages:
+  - index.md
+  - projects.md

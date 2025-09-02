@@ -5,7 +5,8 @@ minima:
   skin: classic
 github:
   is_project_page: false
-  repository_url: https://github.com/danhtran2mind-skills
+  repository_url: https://github.com/danhtran2mind-skills/danhtran2mind-skills.github.io
 header_pages:
   - index.md
+
   - projects.md

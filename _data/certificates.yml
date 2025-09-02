@@ -1,18 +1,22 @@
-- name: Introduction to Deep Learning in PyTorch
-  issuer: DataCamp
+- name: Something
+  issuer: Something
   date: June 2025
-  url: https://github.com/danhtran2mind-skills/pytorch
-- name: Python Programming
-  issuer: DataCamp
+  # url: https://github.com/danhtran2mind-skills/pytorch
+  url: https://google.com
+- name: Something
+  issuer: Something
   date: August 2024
-  url: https://github.com/danhtran2mind-skills/python
-- name: Deep Learning Specialization
-  issuer: Coursera
+  # url: https://github.com/danhtran2mind-skills/python
+  url: https://google.com
+- name: Something
+  issuer: Something
   date: March 2025
-  url: https://github.com/danhtran2mind-skills/coursera
-- name: IBM Data Science Professional Certificate
-  issuer: IBM
+  # url: https://github.com/danhtran2mind-skills/coursera
+  url: https://google.com
+- name:Something
+  issuer: Something
   date: January 2025
-- name: Google Data Analytics
-  issuer: Google Skillboost
+- name: Something
+  issuer: Something
+
   date: July 2024
